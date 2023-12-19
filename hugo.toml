@@ -1,0 +1,203 @@
+# Page settings
+
+baseurl = "https://greenkidspics.netlify.app/"
+languageCode = "en-us"
+title = "Christmas 2023 Greene Kids"
+copyright = "© Hugo Theme Doors"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "hugo-theme-doors"
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Site information
+[params]
+googleTagManager = "GTM-xxxxxxxx"
+description = "Greene kids with a surprise..."
+ogimage = "images/looking up bw.jpg"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = "Family Christmas 2023"
+url = "#"
+description = "Greene Boys get Together for Christmas Pics"
+image = "images/looking up bw.jpg"
+w = "3000"
+h = "3000"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = "Ollie needs help"
+url = "#"
+description = "Ollie is being held up"
+image = "images/Ollie held.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Jumping"
+url = "#"
+description = "We are excited!"
+image = "images/another jump.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Intertwined"
+url = "#"
+description = "Mixed together"
+image = "images/intertwined.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Jump!"
+url = "#"
+description = "Mixed together"
+image = "images/jumping again.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Jumping"
+url = "#"
+description = "Jumping"
+image = "images/jumping.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Napping"
+url = "#"
+description = "Taking a nap"
+image = "images/laying down.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Leaning"
+url = "#"
+description = "Leaning together"
+image = "images/leaning.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Looking away"
+url = "#"
+description = "Looking off"
+image = "images/looking away.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/looking up again.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/middle pushups.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/ollie on the floor.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/pat standing boys sitting.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/ollie the backpack.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/jumping again.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/stacking.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/another jump.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/stacked again.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/looking up again.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/middle pushups.jpg"
+w = 1000
+h = 1000
+
+[[params.subprojects.list]]
+title = "Title here"
+url = "#"
+description = "Description"
+image = "images/leaning.jpg"
+w = 1000
+h = 1000
+
+
+# Contact section
+#[params.contact]
+#description = "I would like to hear from you. Please contact me via email or social media."
+#twitter = "#"
+#facebook = ""
+#linkedin = "#"
+#instagram = "#"
+#github = ""
+#email = "#"
